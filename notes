@@ -1,0 +1,30 @@
+<h1 style = "color: xyz;"></h1> = don't do 
+
+stay within element when designing
+
+<h1 class = ""> class = attribute
+
+in-line style overrides style sheet 
+
+loaded last = wins
+
+h1.title-color specificity = (0,1,1) which is greater than .title-color specificity = (0,1,0)
+
+semantic tags:
+    "semantic tags are used to define different parts of a web page"
+    ex: <header></header> 
+    can use instead of <div></div>
+    w3schools 
+    ex: <section></section>
+never use id tags in styling, use for javascript manipulation
+specificity
+    id = (1,0,0) 
+    class = (0,1,0) 
+    tag = (0,0,1)
+over-architecting is better than under
+bullet points
+    <ul>
+        <li></li>
+    </ul>
+ul = unordered list 
+li = list items

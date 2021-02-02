@@ -1,0 +1,83 @@
+.bg-color{
+    background:#DEDBD8;
+}
+.text-properties{
+    margin: 10px;
+}
+.text-color{
+    color: #42033D
+}
+.header-properties{
+    text-emphasis: bolder;
+    font-size: 36px;
+    font-family: 'Oswald', sans-serif;
+    display: inline-block;
+}
+.box-shadow{
+    box-shadow: 5px, 10px, black
+}
+.card{
+    background: #7A6F9B;
+    border: 2px solid #3F3F37;
+    border-radius: 2px;
+    margin: 4px;
+    max-width: 11em;
+    display: inline-block;
+}
+.subcard{
+    background: #7A6F9B;
+}
+.subcardalt{
+    background: #FFD6C0
+}
+.sub-headers{
+    
+    font-family: 'Oswald', sans-serif;
+    text-emphasis: bold;
+    color: #42033D;
+    border: 2px solid #3F3F37;
+    border-radius: 2px;
+    margin: 5px;
+    max-width: 45em;
+    padding: 3px;
+    display: inline-block;
+
+}
+.top-margin{
+    background-color: #F9F5FF;
+    top: 0%;
+    padding-top: 100px;
+    border: 2px solid #3F3F37;
+    border-radius: 2px;
+}
+.bottom-margin{
+    background-color: #F9F5FF;
+    top: 0%;
+    padding-top: 100px;
+    border: 2px solid #3F3F37;
+    border-radius: 2px;
+}
+.contact-info{
+    margin-left: 7px;
+}
+.picture-settings{
+    position: absolute;
+    top: 0%;
+    right: 0%;
+    display: inline-block;
+}
+.art-header{
+    font-family: 'Oswald', sans-serif;
+    text-emphasis: bold;
+    color: #42033D;
+    margin: 5px;
+    max-width: 45em;
+    padding: 3px;
+    display: inline-block;
+    position: absolute;
+    top: 45%;
+    right: 1%;
+    display: inline-block;
+    border: 2px solid #3F3F37;
+    border-radius: 2px;
+}
